@@ -1,0 +1,16 @@
+# General Python dependencies
+black
+flake8
+pytest
+pytest-mock
+# AWS
+boto3
+aws-cdk-lib
+aws_cdk.aws_cognito_identitypool_alpha
+# Data analysis
+jupyterlab
+ipywidgets
+pandas
+matplotlib
+# GPT
+openai

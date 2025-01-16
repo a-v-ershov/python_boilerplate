@@ -1,0 +1,15 @@
+# Mac OS files
+.DS_Store
+
+# Local creadientials to acess APIs etc.
+dev_environment/local_credentials.yaml
+
+# Temporary files
+*tmp*
+
+# Python
+__pycache__
+
+# AWS CDK output
+cdk.out
+cdk.context.json
