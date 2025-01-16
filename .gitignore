@@ -1,9 +1,6 @@
 # Mac OS files
 .DS_Store
 
-# Local creadientials to acess APIs etc.
-dev_environment/local_credentials.yaml
-
 # Temporary files
 *tmp*
 
